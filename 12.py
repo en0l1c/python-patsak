@@ -4,7 +4,6 @@
 
 
 
-#ο λογος που δεν εγιναν ολοκληρες οι ασκησεις, αλλα οι μισες ειναι ερωτικη απογοητευση. Δεν ειναι οτι βαρεθηκα να τις κανω. Αν δε μου αρεσε δε θα διαλεγα αυτην τη σχολη. Απλα ενημερωνω, για να μην απογοητευσω!
 
 import string
 filename = raw_input("Enter your file name (e.x. hello.txt)\n(Make sure the file exists in the same folder with this python file): ")
