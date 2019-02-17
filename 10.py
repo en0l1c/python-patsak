@@ -35,4 +35,4 @@ print "The <br> and <p> on this website are: "
 print count_blnk_br + count_blnk_p
 
 
-#this exercises tested on www.cs.unipi.gr, www.google.gr
+#this exercises tested on www.cs.unipi.gr,  www.google.gr
