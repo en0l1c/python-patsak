@@ -16,4 +16,4 @@ num = input()
     #print distList
 
 
-#i parousa askisi den einai oute kan misi!
+#i parousa  askisi den einai oute kan misi!
