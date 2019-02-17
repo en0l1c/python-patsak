@@ -11,7 +11,7 @@ filename = raw_input("Enter your file name (e.x. hello.txt)\n(Make sure the file
 file = open(filename, "r") #open the file user wants
 
 
-letters = "abcdefghijklmnopqrstuvwxyz" #initialize and declare all lower case letters to "letters" variable
+letters = "abcdefghijklmnopqrstuvwxyz" #initialize and  declare all lower case letters to "letters" variable
 for i in file:
   text_lower = i.lower() #convert all letters to lowercase
   text_nospace = text_lower.replace(" ", "") #remove all nospace characters from the text
